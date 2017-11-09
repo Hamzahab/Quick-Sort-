@@ -99,5 +99,6 @@ int main() {
 	for(int i = 0;i < n;i++){
 		cout << c[i] << endl;
 	}
+	cout << "working";
 	return 0;
 }
